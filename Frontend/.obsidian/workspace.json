@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "cf647fe4c3a8726b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c4afa4842a9c53d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98cd5335a1f5e360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next/React Server Component (RSC).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React Server Component (RSC)"
+            }
+          },
+          {
+            "id": "2a78a5e780d469b8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "JS under hood/event loop.gif"
+              },
+              "icon": "lucide-image",
+              "title": "event loop"
+            }
+          },
+          {
+            "id": "a46b6d34b5f7e7ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS under hood/this in JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "this in JavaScript"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24b698482949154d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb21e0bbf6fd5dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c825580ac3e58049",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "931a6bc332737a40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff75034da5606461",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "134cf89da029c057",
+    "type": "split",
+    "children": [
+      {
+        "id": "3133986f4d2d9f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "344e011dbd8dea67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Client Components.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for React Client Components"
+            }
+          },
+          {
+            "id": "618dbff64f7ff097",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React Client Components.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from React Client Components"
+            }
+          },
+          {
+            "id": "750c0dd6fa4c8feb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "caa7e497059a743c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JS under hood/this in JavaScript.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of this in JavaScript"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a46b6d34b5f7e7ea",
+  "lastOpenFiles": [
+    "JS under hood/Object Methods.md",
+    "JS under hood/Every thing is object.md",
+    "JS under hood/job queue & callback queue.png",
+    "JS under hood/JavaScript Execution Model.md",
+    "JS under hood/event loop.gif",
+    "JS under hood/Scope chain & closures.md",
+    "JS under hood/Scope.md",
+    "JS under hood/Memory.md",
+    "JS under hood/memory.png",
+    "JS under hood/this in JavaScript.md",
+    "JS under hood/event loop.png",
+    "JS under hood/Unconfirmed 709681.crdownload",
+    "JS under hood/Unconfirmed 990041.crdownload",
+    "JS under hood/Global Variable.md",
+    "Next/React Server Component (RSC).md",
+    "JS under hood",
+    "Next/React Client Components.md",
+    "Welcome.md",
+    "Next"
+  ]
+}
