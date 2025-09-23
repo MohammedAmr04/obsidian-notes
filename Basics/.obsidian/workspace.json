@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ebb28b52ac13634",
+        "id": "13038b64617580b7",
         "type": "tabs",
         "children": [
           {
-            "id": "7735011034d0feff",
+            "id": "e4649d4a802a25e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DSA & Algo/Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Plan"
             }
           }
         ]
@@ -174,12 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f97d0a4745ece22a",
+  "active": "e4649d4a802a25e5",
   "lastOpenFiles": [
+    "DSA & Algo/Plan.md",
     "Untitled.base",
     "OS",
     "Algo",
-    "DSA",
+    "DSA & Algo",
     "DB"
   ]
 }
